@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="aem-selenium-automation-framework-master/src/main/AEM_Test_Automation_Framework"/>
+	<classpathentry kind="lib" path="aem-selenium-automation-framework-master/target/test-framework-0.6.0-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="aem-selenium-automation-framework-master/target/test-framework-0.6.0-test-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="aem-selenium-automation-framework-master/target/test-framework-0.6.0-tests.jar"/>
+	<classpathentry kind="lib" path="aem-selenium-automation-framework-master/target/test-framework-0.6.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="aem-selenium-automation-framework-master/target/classes"/>
+</classpath>
